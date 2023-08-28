@@ -1,0 +1,18 @@
+Prime Numbers Printer
+Question Description:
+Create a program that prints the first 'n' prime numbers. The program should accept an
+integer 'n' as input.
+Boiler Plate Code:
+public class Main
+{
+public static void printPrimes(int n)
+{
+// your code here
+}
+public static void main(String[] args)
+{
+//COde here
+}
+}
+Sample Input: 5
+Sample Output: 2 3 5 7 11

@@ -1,0 +1,20 @@
+Sum of Digits Calculator
+
+Question Description:
+Create a program that calculates the sum of the digits of a number.
+ The program should accept an integer 'n' as input.
+ 
+Boiler Plate Code:
+public class Main
+{
+public static void calculateSumOfDigits(int n)
+{
+// your code here
+}
+public static void main(String[] args)
+{
+//Code here
+}
+}
+Sample Input: 12345
+Sample Output: 15
