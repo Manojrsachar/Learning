@@ -1,0 +1,9 @@
+Palindrome Checker
+
+Question Description:
+
+Create a program that checks whether a number is a palindrome or not. The program
+should accept an integer 'n' as input.
+
+Sample Input: 121
+Sample Output: true
